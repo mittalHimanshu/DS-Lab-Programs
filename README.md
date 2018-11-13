@@ -14,7 +14,7 @@
 12. Experiment 9 : Quick Sort <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.9-Quick%20Sort.cpp">Click Here</a>
 13. Experiment 10 : Selection and Merge Sort <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.10-Selection%20and%20Merge%20Sort.cpp">Click Here</a>
 14. Experiment 11 : Binary Search Tree <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.11-Binary%20Search%20Tree.cpp">Click Here</a>
-15.Experiment 12 : Heap Sort <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.12-Heap%20Sort.cpp">Click Here</a>
+15. Experiment 12 : Heap Sort <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.12-Heap%20Sort.cpp">Click Here</a>
 16. Experiment 13(A) : Operations on Graph-Linked List representation <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.13(A)-Operations%20on%20Graph-Linked%20List%20representation.cpp">Click Here</a>
 17. Experiment 13(B) : Operations on Graph-Adjacency Matrix representation <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.13(B)-Operations%20on%20Graph-Adjacency%20Matrix%20representation.cpp">Click Here</a>
 18. Experiment 13(C) : Depth First Search <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.13(C)-Depth%20First%20Search.cpp">Click Here</a>
