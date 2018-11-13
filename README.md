@@ -1,6 +1,6 @@
 # DS-Lab-Programs
 
-* Experiment 1 : Array basic operations <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.1-Array%20basic%20operations.cpp">Click Here</a>
+* Experiment 1 : Array basic operations <a target="_blank" href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.1-Array%20basic%20operations.cpp">Click Here</a>
 * Experiment 2 : Array Linear Search <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.2-Array%20Linear%20Search.cpp">Click Here</a>
 * Experiment 3 : Bubble Sort and Binary Search <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.3-Bubble%20Sort%20%26%20Binary%20Search.cpp">Click Here</a>
 * Experiment 4 : Doubly and Circular Linked List <a href="https://github.com/mittalHimanshu/DS-Lab-Programs/blob/master/Exp.4-Doubly%20and%20Circular%20Linked%20List.cpp">Click Here</a>
