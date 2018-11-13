@@ -2,7 +2,7 @@
 using namespace std;
 class array
 {
-  int arr[100],i,n,pos,val,key;
+  int *arr, i, n, pos, val, key;
   public:
   void create();
   void insert();
@@ -14,10 +14,11 @@ void array::create()
 {
   cout<<"Enter the size of array: ";
   cin>>n;
+  arr = new int[n];
   cout<<"Enter the elements for the array: ";
   for(i=0;i<n;i++)
   {
-    cin>>arr[i];
+    cin>>*(arr+i);
   }
 }
 void array::insert()

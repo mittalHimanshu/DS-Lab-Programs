@@ -55,7 +55,7 @@ int main()
 {
   insertion l;
   l.create();
-	l.insertionsort();
+  l.insertionsort();
   cout<<"Array after sorting: ";
   l.display();
   int val;

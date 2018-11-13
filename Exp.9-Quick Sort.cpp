@@ -56,12 +56,12 @@ class quick
 };
 int main()
 {
-	quick q;
+  quick q;
   int size;
   cout<<"Enter size of array: ";
   cin>>size;
   q.input(size);
   q.quicksort(0,size-1);
-	cout<<"Array after sorting: ";
-	q.display();
+  cout<<"Array after sorting: ";
+  q.display();
 }
